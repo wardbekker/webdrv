@@ -1,0 +1,4 @@
+{application, webdrv, [
+    {description, "WebDriver implementation in Erlang"},
+    {vsn, "1.0.0"}
+]}.
